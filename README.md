@@ -30,3 +30,8 @@ Installation & Defaults
 * Default Credentials: 
   * Username: root
   * Password: root (Please change this immediately after your first boot for security!)
+
+### Credits & Thanks
+Special thanks to the projects and communities that made this distribution possible:
+* [torvalds/linux](github.com/torvalds/linux) — For the incredible operating system kernel.
+* [Linux From Scratch (v12.4)](https://linuxfromscratch.org) — For the comprehensive guide, documentation, and foundational architecture.
