@@ -1,4 +1,15 @@
 # c0rewing
+   ,_     _
+   |\\_,-~/
+   / _  _ |    ,--.
+  (  @  @ )   / ,-'
+   \  _T_/-._( (
+   /         `. \
+  |         _  \ |
+   \ \ ,  /      |
+    || |-_\__   /
+   ((_/`(____,-'
+
 An independent, lightweight x86_64 Linux system built from scratch (LFS-based).
 
 Download Link
