@@ -21,10 +21,7 @@ Terminal Fun & Easter Eggs
 * cmatrix - Classic digital rain screen effect.
 * aafire - ASCII art burning fire animation.
 
-Important Notes & Customization
-* Fastfetch Logo: Please do not delete /root/ascii.txt if you want to keep or customize the custom ASCII logo used by fastfetch!
-* Developer Note: This is my very first release, so it still contains some of my personal build files. I sincerely apologize for the clutter! In the next release, I will completely clean up the environment and remove all leftover files.
-
+  
 Installation & Defaults
 * Deployment: Copy the rootfs directly to your target drive and install the GRUB bootloader.
 * Default Credentials: 
