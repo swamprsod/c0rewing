@@ -35,3 +35,7 @@ Installation & Defaults
 Special thanks to the projects and communities that made this distribution possible:
 * [torvalds/linux](github.com/torvalds/linux) — For the incredible operating system kernel.
 * [Linux From Scratch (v12.4)](https://linuxfromscratch.org) — For the comprehensive guide, documentation, and foundational architecture.
+
+### License
+CoreWing is licensed under the MIT License.
+See [LICENSE](LICENSE) for details.
